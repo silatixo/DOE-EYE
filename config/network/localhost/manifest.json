@@ -1,15 +1,15 @@
 {
-    "year": "2377",
+    "year": "2024",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "DOE-EYE SECURE",
+    "iconName": "DOELOGO.png",
+    "terminalID": "EYE",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "EYE AGENT"
     },
-    "randomSeed": true,
+    "randomSeed": FALSE,
     "initialHistory": {
         "user": [
             "login admin@admin"
