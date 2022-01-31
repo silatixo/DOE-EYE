@@ -16,6 +16,12 @@
         "password": "admin",
         "userName": "root"
     },
+    
+    {
+        "userId": "EYEDROP",
+        "password": "mybrand",
+        "userName": "EYEDROP"
+    },
 
     {
         "userId": "n",
