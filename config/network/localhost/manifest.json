@@ -9,7 +9,7 @@
         "password": "",
         "userName": "EYE AGENT"
     },
-    "randomSeed": FALSE,
+    "randomSeed": true,
     "initialHistory": {
         "user": [
             "login admin@admin"
