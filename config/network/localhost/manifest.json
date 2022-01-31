@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "DOE-EYE SECURE",
     "iconName": "DOELOGO.png",
-    "terminalID": "EYE",
+    "terminalID": "DOE",
     "defaultUser": {
         "userId": "user",
         "password": "",
