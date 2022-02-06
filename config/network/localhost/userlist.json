@@ -1,10 +1,16 @@
 [
     {
-        "userId": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userId": "CASTOR",
+        "password": "stream",
+        "userName": "Raytheon, Dameon"
     },
-
+    
+   {
+        "userId": "SPLITTER",
+        "password": "cascade",
+        "userName": "Freeman, Alek"
+    },
+    
     {
         "userId": "admin",
         "password": "admin",
@@ -16,10 +22,5 @@
         "password": "mybrand",
         "userName": "EYEDROP"
     },
-
-    {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
-    }
+    
 ]
