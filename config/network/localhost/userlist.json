@@ -12,16 +12,17 @@
     },
     
     {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-    
-    {
         "userId": "EYEDROP",
         "password": "mybrand",
         "userName": "EYEDROP"
     },
+    
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+          
     {
         "userId": "8A73B5",
         "password": "trustno1",
@@ -29,21 +30,9 @@
     },
 
     {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-    
-    {
-        "userId": "EYEDROP",
-        "password": "mybrand",
-        "userName": "EYEDROP"
-    },
-
-    {
         "userId": "n",
         "password": "n",
         "userName": "debug"
-    },
+    }
     
 ]
