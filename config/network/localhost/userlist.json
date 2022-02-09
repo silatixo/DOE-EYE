@@ -12,6 +12,18 @@
     },
     
     {
+        "userId": "BEANS",
+        "password": "waterfall",
+        "userName": "Vanet, Hol"
+    },
+    
+    {
+        "userId": "ITCHY",
+        "password": "rapids",
+        "userName": "Wilkerson, Coen"
+    },
+    
+    {
         "userId": "EYEDROP",
         "password": "mybrand",
         "userName": "EYEDROP"
