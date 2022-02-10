@@ -11,10 +11,23 @@
         "title": "undefined",
         "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
     },
+    
     {
         "from": "EYEDROP",
         "to": ["CASTOR", "SPLITTER", "ITCHY", "BEANS"],
         "title": "Commencement",
         "body": "Welcome to DOE-EYE.\nProceed to 1000 Independence Ave., S.W. Washington, DC 20585, Rm 209 at 0830 on 14OCT2024 for your read-in.\nDo not inform anyone regarding the purpose of your visit.\nPlane tickets are in your mailbox.\nCongratulations."
+    },
+    {
+        "from": "EYEDROP",
+        "to": ["CASTOR", "SPLITTER", "ITCHY", "BEANS"],
+        "title": "Retasking",
+        "body": "Disregard previous directive to meet in DC. Proceed to residence of Agent Clyde Baughman (deceased). Remove any evidence of our activities. Report security breaches. Heirs are expected w/in 48 hours. Make sure everything is clean by then. No Friendlies! Destroy this message immediately after memorizing it."
+    },
+    {
+        "from": "EYEDROP",
+        "to": ["CASTOR", "SPLITTER", "ITCHY", "BEANS"],
+        "title": "SUMMARY OF A REPORT ON CLYDE BAUGHMAN",
+        "body": "D.O.B: 3/28/1945. RESIDENCE: 803 Packard St, Apt 3, Clintonville, NJ. FAMILY: Wife, Marlene (8/20/1948 to 11/2/2002); Daughter, Sharon (9/12/1967); Son, Michael (7/28/1974). OCCUPATION: Bureau of Internal Revenue (later IRS) 6/11/1965 – 9/1/1999, retired as Assistant Deputy Commissioner for Operational Support. AFFILIATION: Active with group from 1967 to 1970, taking part in eleven operations (details unavailable). Numerous consultations with a specialty in taxation and property confiscations. No current association with group."
     }
 ]
