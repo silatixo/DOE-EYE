@@ -24,6 +24,12 @@
     },
     
     {
+        "userId": "RIDDLE",
+        "password": "inlet",
+        "userName": "Ballard, Kayla"
+    },
+    
+    {
         "userId": "EYEDROP",
         "password": "mybrand",
         "userName": "EYEDROP"
