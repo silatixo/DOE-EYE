@@ -1,34 +1,19 @@
 {
     "geolocate": {
         "help": "Transmit coordinates",
-        "location": ["127.0.0.1", "localhost"],
+        "location": ["localhost"],
         "clear": false,
         "delayed": 2000,
         "message": [
-            "Collecting data",
-            "Accessing signal",
-            "Georeferencing",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "Geolocated",
-            "Coordinates transmitted"
-        ]
-    },
-    "cdata.exe": {
-        "location": ["127.0.0.1", "localhost"],
-        "protection": ["admin"],
-        "delayed": 2000,
-        "message": [
-            "Corrupting data.",
-            "Corrupting data..",
-            "Corrupting data...",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "System successfully corrupted!"
+            "Accessing signal...".
+            "Collecting data...",
+            "Georeferencing...",
+            "0% complete...",
+            "11% complete...",
+            "47% complete...",
+            "98% complete...",
+            "Geolocated.",
+            "Coordinates transmitted."
         ]
     }
 }
