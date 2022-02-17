@@ -5,7 +5,7 @@
         "clear": false,
         "delayed": 2000,
         "message": [
-            "Accessing signal...".
+            "Accessing signal...",
             "Collecting data...",
             "Georeferencing...",
             "0% complete...",
